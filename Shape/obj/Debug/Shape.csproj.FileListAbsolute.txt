@@ -5,3 +5,4 @@ C:\Users\Mr Hanson\Desktop\dcit318-assignment2-11116390\Shape\obj\Debug\Shape.cs
 C:\Users\Mr Hanson\Desktop\dcit318-assignment2-11116390\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
 C:\Users\Mr Hanson\Desktop\dcit318-assignment2-11116390\Shape\obj\Debug\Shape.exe
 C:\Users\Mr Hanson\Desktop\dcit318-assignment2-11116390\Shape\obj\Debug\Shape.pdb
+C:\Users\Mr Hanson\Desktop\dcit318-assignment2-11116390\Shape\obj\Debug\Shape.exe.config

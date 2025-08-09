@@ -55,6 +55,7 @@ namespace Shape
 
             Rectangle rectangle = new Rectangle(4, 6);
             Console.WriteLine($"Area of rectangle 4x6: {rectangle.GetArea()}");
+            Console.ReadLine();
         }
     }
 }
